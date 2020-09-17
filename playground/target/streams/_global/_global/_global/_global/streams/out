@@ -1,0 +1,5 @@
+[debug] [watch] [playground / Compile / run] Found inputs: C:\Users\sabax\Desktop\coding\Scala\playground\*.{java,scala},C:\Users\sabax\Desktop\coding\Scala\playground\src\main\java\**\*.{java,scala},C:\Users\sabax\Desktop\coding\Scala\playground\src\main\resources\**\*,C:\Users\sabax\Desktop\coding\Scala\playground\src\main\scala\**\*.{java,scala},C:\Users\sabax\Desktop\coding\Scala\playground\src\main\scala-2.13\**\*.{java,scala}
+[info] 1. Monitoring source files for playground/run...
+[info]    Press <enter> to interrupt or '?' for more options.
+[debug] [watch] [debug] Received input event: Run().
+[debug] [watch] [debug] Received input event: Run().

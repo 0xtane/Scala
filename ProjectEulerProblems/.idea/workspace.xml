@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="48103fde-53ff-4326-b559-6c0e011d5fe1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hdzOxhXAjGAWbY2nwNtIXzRQXZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="scala_project_settings_configurable.last_selected_tab_index" value="0" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="xml" value="XML" />
+      </map>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48103fde-53ff-4326-b559-6c0e011d5fe1" name="Default Changelist" comment="" />
+      <created>1600355732785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600355732785</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="596" y="113" key="#Project_Structure" timestamp="1600356071405">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="596" y="113" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1600356071405" />
+    <state x="570" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600360503869">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="570" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600360503869" />
+    <state x="837" y="228" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1600356273738">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="837" y="228" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600356273738" />
+    <state x="772" y="252" key="run.anything.popup" timestamp="1600360797097">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="772" y="252" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600360797097" />
+    <state x="779" y="258" width="672" height="678" key="search.everywhere.popup" timestamp="1600356243763">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="779" y="258" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600356243763" />
+  </component>
+</project>
